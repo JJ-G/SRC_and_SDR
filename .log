@@ -1,0 +1,107 @@
+This is Omega, Version 3.14159--1.15 (MiKTeX 2.9) (preloaded format=lambda 17.2.8)
+13 FEB 2017 18:47
+Copyright (c) 1994--2000 John Plaice and Yannis Haralambous
+**= 1
+(D:\SoftWare\CTEX\MiKTeX\tex\latex\tools\.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+File ignored)
+
+! LaTeX Error: Missing \begin{document}.^^J^^JSee the LaTeX manual or LaTeX Com
+panion for explanation.^^JType  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> = 1
+       
+? #^^d1^^f9^^b1^^be^^b3^^f5^^ca^^bc^^bb^^af
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? D = Train_Norm_arr
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Test = Test_Norm_arr
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+Missing character: There is no 1 in font nullfont!
+
+*#^^b5^^f7^^d3^^c3slr_function^^d6^^d0^^b5^^c4slr_decomposition^^b7^^bd^^b7^^a8
+^^b5^^c3^^b5^^bd^^d7^^d6^^b5^^e4A^^ba^^cd^^d7^^d6^^b5^^e4B
+! You can't use `macro parameter character #' in horizontal mode.
+<*> #
+     ^^b5^^f7^^d3^^c3slr_function^^d6^^d0^^b5^^c4slr_decomposition^^b7^^bd^^...
+
+? A,B = sdr_function.SLR_Decomposition(D,k,Train_Label,
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? ^^Iint(ClassesNum),Lambda,Delta,Tau,Eta,Iter_max)
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? print A[0:4,0:4]
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+Missing character: There is no ^^b5 in font nullfont!
+Missing character: There is no ^^f7 in font nullfont!
+Missing character: There is no ^^d3 in font nullfont!
+Missing character: There is no ^^c3 in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> #^^b5^^f7^^d3^^c3slr_
+                         function^^d6^^d0^^b5^^c4slr_decomposition^^b7^^bd^^...
+
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 0.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 0.
+
+*#^^bc^^c6^^cb^^e3^^ca^^b6^^b1^^f0^^c2^^ca^^ba^^cd^^cf^^b5^^ca^^fd
+! You can't use `macro parameter character #' in math mode.
+<*> #
+     ^^bc^^c6^^cb^^e3^^ca^^b6^^b1^^f0^^c2^^ca^^ba^^cd^^cf^^b5^^ca^^fd
+? accuracy,alpha_all,x_all,e_all,resd_r = sdr_function.SDR_Calculate(D,
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? ^^ITrain_Label,Test,Test_Label,int(ClassesNum),A,B,Beta,Gamma,Iter_max)
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+
+*X
+
+*
+! Emergency stop.
+<*> X
+     
+End of file on the terminal!
+
+No pages of output.
